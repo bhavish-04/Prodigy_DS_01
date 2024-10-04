@@ -1,6 +1,6 @@
 # README: Prodigy Infotech Task 1
 
-## Author: MD EHTASAM FAIZI
+## Author: Bhavish Hemantkumar Tandel
 
 ## Batch: September
 
